@@ -6,7 +6,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <identifier value="br.com.cfnarede.libreoffice.gallery.network" />
-    <version value="1.2.0" />
+    <version value="1.2.2" />
     <publisher>
         <name xlink:href="http://cfnarede.com.br/networkicons-extension" lang="en">CFnaRede</name>
     </publisher>
@@ -15,7 +15,6 @@
     </dependencies>
     <release-notes>
         <src xlink:href="release-notes/release-notes_en.txt" lang="en" />
-        <src xlink:href="release-notes/release-notes_en.txt" lang="pt_BR" />
     </release-notes>
     <display-name>
        <name lang="en">Gallery of network equipment shapes</name>
