@@ -1,7 +1,7 @@
 ﻿Extension : Gallery of network equipment shapes
 
 Release notes:
-V1.2.2(2017-02-03):    First release forked from VRT network icons. Added a lot of icons like cloud (clients), reverse proxy and conteiner (servers), loadbalances and vips (network).
+V1.2.2(2017-02-03):    First release forked from VRT network icons. Added a lot of icons like cloud (clients), reverse proxy and conteiner (servers), loadbalances, IPS and vips (network).
 V1.2.1(2014-08-??):    Shadows made transparent so will work on non-white backgrounds, added WAGES Hub devices and L/R variants of some shapes.
 V1.2.0(2014-07-31):    Reorganised theme folders, lots of new shapes (now 210+) - logical networking, visualisation/display systems.
 V1.1.1(2014-07-15):    Added templates with isometric guidelines to assist with drawing layout (A4P, A3L).
